@@ -16,6 +16,9 @@
 
 - Modular design for easy integration with simulation or real-world RSU data
 
+[![Watch the video](https://img.youtube.com/vi/dRQLWckiGzk/hqdefault.jpg)](https://www.youtube.com/watch?v=dRQLWckiGzk)
+
+
 ## Directory Structure
 
 `
